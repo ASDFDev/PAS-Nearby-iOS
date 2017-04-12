@@ -1,6 +1,6 @@
 # Proximity Attendance System (iOS Client)
 
-(Nearby API version)
+(Nearby API version, will not be updated until Quiet version is complete)
 
 Port of [ATS_Nearby_Reboot](https://github.com/emansih/ATS_Nearby_Reboot)
 
